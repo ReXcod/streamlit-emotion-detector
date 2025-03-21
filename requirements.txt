@@ -1,8 +1,8 @@
 streamlit
-streamlit-webrtc
 opencv-python-headless
 deepface
-numpy
-av
-keras==2.11.0
 tensorflow==2.11.0
+keras==2.11.0
+tf-keras
+numpy
+pandas
